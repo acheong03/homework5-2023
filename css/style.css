@@ -14,9 +14,6 @@
 }
 
 body{
-    margin: 0;
-    padding: 0;
-    font-size: 16pt;
     font-family: 'Poppins', serif;
     background: url('.../images/concrete_seamless.png') #f1f1f1;
 }
